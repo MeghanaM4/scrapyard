@@ -2,7 +2,7 @@
 Note: To test your changes locally use `yarn dev` and http://localhost:3000/columbus
 */
 
-import Head from 'next/head'
+import Head from 'next/head' 
 import { Box, Card, Grid, Heading, Image, Link, Text } from 'theme-ui'
 import dynamic from 'next/dynamic'
 
